@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges were the emulation time, which was probably caused by lack of disk space and low RAM. I had some trouble figuring out how to get
+GitHub to commit properly for a while, but besides that by following the videos I was able to get the work done.
 
 ## License
 
